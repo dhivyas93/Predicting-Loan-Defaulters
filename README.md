@@ -1,4 +1,4 @@
-# Predicting-Loan-Defaulting-Clients
+# Predicting-Loan-Defaulters
 
 This project was implemented using **pyspark** and concepts of **machine learning**
 
