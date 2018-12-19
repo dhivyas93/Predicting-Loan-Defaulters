@@ -18,6 +18,10 @@ The binary variable to be predicted is 'default payment' (Yes = 1, No = 0). The 
   * **Amount of previous payment (NT dollar)**. X18 = amount paid in September, 2005; X19 = amount paid in August, 2005 ... X23 = amount paid in April, 2005. 
 <br></br>
 
+
+**Gradient Boosting Classifier** gave the best accuracy of **77.16%** of predicting the defaulters for the next month.
+
+
 ### Data available at :
 https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
 <br></br>
